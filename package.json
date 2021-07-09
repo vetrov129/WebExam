@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Jeremy Kithome <jeremy.kithome@andela.com>",
+  "author": "vetrov129",
   "private": true,
   "scripts": {
     "start": "npm run build && http-server dist",
