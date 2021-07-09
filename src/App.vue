@@ -1,12 +1,13 @@
 <template>
   <div id="app">
-    <h1 class="ui dividing centered header">Vetrov Alexandr 191-362</h1>
+    <h1 class="ui dividing centered header">Vetrov Alexandr</h1>
     <div class='ui three column centered grid'>
       <div class='column'>
         <todo-list v-bind:todos="todos"></todo-list>
         <create-todo v-on:create-todo="createTodo"></create-todo>
       </div>
     </div>
+    <div style="width: 600px; max-width: 100%; margin: auto; text-align: center; font-size: 1.2em; padding: 50px">Александр Ветров 191-362 <br> 9 июля 2021</div>
   </div>
 </template>
 
