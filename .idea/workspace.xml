@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38ac1484-f8aa-4229-bce8-f57943ae6492" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
+    <list default="true" id="38ac1484-f8aa-4229-bce8-f57943ae6492" name="Default Changelist" comment="logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CreateTodo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateTodo.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,10 +126,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1625819855269" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1625824902732">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1625832096893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625824902732" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625832096893" />
     <state x="129" y="55" key="DiffContextDialog" timestamp="1625824894286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -145,22 +138,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1625815590868" />
-    <state width="1345" height="187" key="GridCell.Tab.0.bottom" timestamp="1625829976831">
+    <state width="1345" height="89" key="GridCell.Tab.0.bottom" timestamp="1625832509237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625829976831" />
-    <state width="1345" height="187" key="GridCell.Tab.0.center" timestamp="1625829976830">
+    <state width="1345" height="89" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625832509237" />
+    <state width="1345" height="89" key="GridCell.Tab.0.center" timestamp="1625832509236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625829976830" />
-    <state width="1345" height="187" key="GridCell.Tab.0.left" timestamp="1625829976830">
+    <state width="1345" height="89" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625832509236" />
+    <state width="1345" height="89" key="GridCell.Tab.0.left" timestamp="1625832509236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625829976830" />
-    <state width="1345" height="187" key="GridCell.Tab.0.right" timestamp="1625829976831">
+    <state width="1345" height="89" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625832509236" />
+    <state width="1345" height="89" key="GridCell.Tab.0.right" timestamp="1625832509237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625829976831" />
+    <state width="1345" height="89" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625832509237" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1625825021764">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
