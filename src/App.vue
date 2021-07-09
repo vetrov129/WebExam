@@ -6,6 +6,10 @@
       <img class="logo" src="https://fb.ru/misc/i/gallery/88575/2586156.jpg" alt="Logo" style="width:7%; display: block; margin: auto">
     </picture>
     <h1 class="ui dividing centered header">Vetrov Alexandr</h1>
+    <div style="display: flex; width: 100%; justify-content: center; align-items: center; padding: 1.1em; ">
+      <label for="switch">Сменить тему </label>
+      <input type="checkbox" name="switch" id="switch" style="width: 1.1em; height: 1.1em;">
+    </div>
     <div class='ui three column centered grid'>
       <div class='column'>
         <todo-list v-bind:todos="todos"></todo-list>
