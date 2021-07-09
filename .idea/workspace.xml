@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38ac1484-f8aa-4229-bce8-f57943ae6492" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CreateTodo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateTodo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Todo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TodoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,12 +39,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vetro\Desktop\webexam\images" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm build">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
@@ -72,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625814882920</updated>
-      <workItem from="1625814886963" duration="8675000" />
+      <workItem from="1625814886963" duration="11535000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1625815911338</created>
@@ -95,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625820110584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="footer">
+      <created>1625824906370</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625824906370</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +121,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="ьфшт ефылы фку вщту" />
     <MESSAGE value="qweqwe" />
-    <option name="LAST_COMMIT_MESSAGE" value="qweqwe" />
+    <MESSAGE value="footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625818365689">
@@ -116,34 +133,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1625819855269" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1625820108012">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1625824902732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625820108012" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1625824902732" />
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1625824894286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1625824894286" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1625815590868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1625815590868" />
-    <state width="1345" height="42" key="GridCell.Tab.0.bottom" timestamp="1625824642031">
+    <state width="1345" height="187" key="GridCell.Tab.0.bottom" timestamp="1625829976831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="42" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625824642031" />
-    <state width="1345" height="42" key="GridCell.Tab.0.center" timestamp="1625824642031">
+    <state width="1345" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625829976831" />
+    <state width="1345" height="187" key="GridCell.Tab.0.center" timestamp="1625829976830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="42" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625824642031" />
-    <state width="1345" height="42" key="GridCell.Tab.0.left" timestamp="1625824642031">
+    <state width="1345" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625829976830" />
+    <state width="1345" height="187" key="GridCell.Tab.0.left" timestamp="1625829976830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="42" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625824642031" />
-    <state width="1345" height="42" key="GridCell.Tab.0.right" timestamp="1625824642031">
+    <state width="1345" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625829976830" />
+    <state width="1345" height="187" key="GridCell.Tab.0.right" timestamp="1625829976831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="42" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625824642031" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1625820114584">
+    <state width="1345" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625829976831" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1625825021764">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625820114584" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625825021764" />
     <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1625819199085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

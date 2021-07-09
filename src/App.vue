@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <picture>
+      <source media="(min-width:650px)" srcset="https://w7.pngwing.com/pngs/312/1018/png-transparent-orange-blue-and-black-logo-logo-circle-technology-circle-blue-text-information-technology.png">
+      <source media="(min-width:465px)" srcset="https://w7.pngwing.com/pngs/184/1023/png-transparent-logo-nelumbo-nucifera-lotus-miscellaneous-purple-text.png">
+      <img class="logo" src="https://fb.ru/misc/i/gallery/88575/2586156.jpg" alt="Logo" style="width:7%; display: block; margin: auto">
+    </picture>
     <h1 class="ui dividing centered header">Vetrov Alexandr</h1>
     <div class='ui three column centered grid'>
       <div class='column'>
